@@ -1,0 +1,6 @@
+Started container with docker run devopsdockeruh/exec_bash_exercise
+Opened a new terminal
+Checked the id of the container with docker ps -a
+Used docker exec tail -f ./logs.txt to keep track of logs
+Secret message is:
+"Docker is easy"
